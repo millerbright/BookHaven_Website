@@ -111,7 +111,7 @@ With these simple adjustments, **BookHaven** can reach a wider audience and make
 
 ### Application Model:
 
-<p align="center"><img src="assets/mvc.png" alt="mvc" width="600"></p>
+<p align="center"><img src="assets/mvc.png" alt="mvc" width="400"></p>
 
 Our team chose the `MVC (Model-View-Controller)` pattern for this project. MVC is a software design pattern that separates an application into three interconnected components, improving organization, maintainability, scalability, and code reusability.
 
@@ -126,7 +126,7 @@ Our team chose the `MVC (Model-View-Controller)` pattern for this project. MVC i
 The source code is stored and accessed by team members through the GitHub platform. The source code structure is organized as follows:
 
 <p align="center">
-<img src="assets/ctmn.png" alt="Ctmn" width="300">
+<img src="assets/ctmn.png" alt="Ctmn" width="200">
 </p>
 
 It is divided into three main parts:
@@ -142,7 +142,7 @@ The directories containing the MVC model manage the application's codebase struc
 - `/controllers`: Controls and directs the website's workflow
 
 <p align="center">
-<img src="assets/mh.png" alt="mh" width="300">
+<img src="assets/mh.png" alt="mh" width="200">
 </p>
 
 The **data-related directories** include the database and resources used during website development, divided into:
@@ -151,7 +151,7 @@ The **data-related directories** include the database and resources used during 
 - `/assets`: Website resources
 
 <p align="center">
-<img src="assets/mh2.png" alt="mh2" width="300">
+<img src="assets/mh2.png" alt="mh2" width="200">
 </p>
 
 The API and Utils directories contain API calls for website communication and supporting logic, divided into:
@@ -159,7 +159,7 @@ The API and Utils directories contain API calls for website communication and su
 - `/utils`: Supporting logic
 
 <p align="center">
-<img src="assets/mh3.png" alt="mh3" width="300">
+<img src="assets/mh3.png" alt="mh3" width="200">
 </p>
 
 ## 📌**Software Features - Các tính năng của phần mềm**
@@ -386,35 +386,35 @@ Any other HTTP method sent to this endpoint will return Status Code 405 (Method 
 
 The homepage of the website displays a list of recommended books and best-selling books.
 
-<p align="center"><img src="assets/gd.png" alt="gd" width="400"></p>
+<p align="center"><img src="assets/gd.png" alt="gd" width="500"></p>
 
 **2. View All Books**
 
 Users can view all available books on the website by clicking on the "To Books" section in the header.
 
-<p align="center"><img src="assets/gd2.png" alt="gd2" width="400"></p>
+<p align="center"><img src="assets/gd2.png" alt="gd2" width="500"></p>
 
-<p align="center"><img src="assets/gd3.png" alt="gd3" width="400"></p>
+<p align="center"><img src="assets/gd3.png" alt="gd3" width="500"></p>
 
 **3. Register and Login**
 
 To log in or register, users can click on the "To Login" section in the header.
 
-<p align="center"><img src="assets/gd4.png" alt="gd4" width="600"></p>
+<p align="center"><img src="assets/gd4.png" alt="gd4" width="500"></p>
 
-<p align="center"><img src="assets/gd5.png" alt="gd5" width="600"></p>
+<p align="center"><img src="assets/gd5.png" alt="gd5" width="500"></p>
 
 **4. Save Books to Favorites**
 
 Logged-in users can save books to their favorites list by clicking the heart icon on the corresponding book card or the "Favorite" button on the book details page.
 
-<p align="center"><img src="assets/gd6.png" alt="gd6" width="300"></p>
+<p align="center"><img src="assets/gd6.png" alt="gd6" width="100"></p>
 
-<p align="center"><img src="assets/gd7.png" alt="gd7" width="400"></p>
+<p align="center"><img src="assets/gd7.png" alt="gd7" width="500"></p>
 
 Users can later browse their saved favorite books by clicking the heart icon in the header.
 
-<p align="center"><img src="assets/gd8.png" alt="gd8" width="600"></p>
+<p align="center"><img src="assets/gd8.png" alt="gd8" width="500"></p>
 
 **5. Edit Personal Information**
 
@@ -430,11 +430,11 @@ Admins can add, delete, or edit book information through the "To Books" section 
 
   - To delete or edit the information of a specific book, click the "Edit" button on the corresponding book.
 
-  <p align="center"><img src="assets/gd11.png" alt="gd11" width="400"></p>
+  <p align="center"><img src="assets/gd11.png" alt="gd11" width="500"></p>
 
   - To add a new book, click the "Create New Book" button and fill in the required information.
 
-  <p align="center"><img src="assets/gd12.png" alt="gd12" width="400"></p>
+  <p align="center"><img src="assets/gd12.png" alt="gd12" width="500"></p>
 
 **7. View and Delete User Accounts**
 

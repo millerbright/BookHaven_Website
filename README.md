@@ -6,14 +6,12 @@
 
 🎓 Inspired by Fahasa, BookHaven offers a familiar and intuitive interface, allowing users to browse, search, and purchase books with ease. Customers can also create personal accounts to save their favorite books, track orders, and receive exclusive deals.
 
+<p align="center"><img src="assets/fahasalogo.png" alt="logo" width="100"></p>
+
 🎓 Beyond being a shopping platform, BookHaven helps businesses promote their products, connect with partners, and provide information about bookstores, promotions, and customer support services. With a modern, intuitive design and optimized features, BookHaven promises to be "The Paradise for Book Lovers" – delivering the best reading and shopping experience for book enthusiasts of all ages.
 
+<p align="center"><img src="assets/home.png" alt="home" width="700"><img src="assets/home2.png" alt="home2" width="700"><img src="assets/home3.png" alt="home3" width="700"></p>
 
-<p align="center"><img src="assets/fahasalogo.png" alt="logo" width="200"></p>
-
-<p align="center"><img src="assets/home.png" alt="home" width="700"></p>
-<p align="center"><img src="assets/home2.png" alt="home2" width="700"></p>
-<p align="center"><img src="assets/home3.png" alt="home3" width="700"></p>
 
 ## 🛠️ **Technologies Used**
 

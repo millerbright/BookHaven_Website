@@ -11,6 +11,10 @@
 
 <p align="center"><img src="assets/fahasalogo.png" alt="logo" width="200"></p>
 
+<p align="center"><img src="assets/home.png" alt="home" width="700"></p>
+<p align="center"><img src="assets/home2.png" alt="home2" width="700"></p>
+<p align="center"><img src="assets/home3.png" alt="home3" width="700"></p>
+
 ## 🛠️ **Technologies Used**
 
 BookHaven is built using a modern and efficient technology stack, ensuring a seamless user experience, maintainability, and scalability. Below are the core technologies and tools powering the platform:

@@ -9,7 +9,7 @@
 🎓 Beyond being a shopping platform, BookHaven helps businesses promote their products, connect with partners, and provide information about bookstores, promotions, and customer support services. With a modern, intuitive design and optimized features, BookHaven promises to be "The Paradise for Book Lovers" – delivering the best reading and shopping experience for book enthusiasts of all ages.
 
 
-![image]()
+<p align="center"><img src="assets/fahasalogo.png" alt="logo" width="600"></p>
 
 ## 🛠️ **Technologies Used**
 
@@ -31,6 +31,8 @@ BookHaven is built using a modern and efficient technology stack, ensuring a sea
 
 - JavaScript Enhancements:
   - `jQuery` – A lightweight JavaScript library that simplifies DOM manipulation, AJAX requests, and event handling, enhancing user interactivity and responsiveness.
+
+<p align="center"><img src="assets/tech.png" alt="techuse" width="600"></p>
 
 🏆 **Strengths & Trade-offs**
 | Technology | Strengths | Trade-offs |
@@ -77,7 +79,7 @@ With these simple adjustments, **BookHaven** can reach a wider audience and make
 
 ### Database: 
 
-<p align="center"><img src="assets/hinh10.png" alt="hinh10" width="600"></p>
+<p align="center"><img src="assets/csdl.png" alt="csdl" width="600"></p>
 
 🚀 The database implementation includes the following data types:
 
@@ -109,7 +111,7 @@ With these simple adjustments, **BookHaven** can reach a wider audience and make
 
 ### Application Model:
 
-<p align="center"><img src="assets/hinh10.png" alt="hinh10" width="600"></p>
+<p align="center"><img src="assets/mvc.png" alt="mvc" width="600"></p>
 
 Our team chose the `MVC (Model-View-Controller)` pattern for this project. MVC is a software design pattern that separates an application into three interconnected components, improving organization, maintainability, scalability, and code reusability.
 
@@ -124,7 +126,7 @@ Our team chose the `MVC (Model-View-Controller)` pattern for this project. MVC i
 The source code is stored and accessed by team members through the GitHub platform. The source code structure is organized as follows:
 
 <p align="center">
-<img src="assets/Classdiagram.png" alt="ClassDiagram" width="600">
+<img src="assets/ctmn.png" alt="Ctmn" width="600">
 </p>
 
 It is divided into three main parts:
@@ -140,7 +142,7 @@ The directories containing the MVC model manage the application's codebase struc
 - `/controllers`: Controls and directs the website's workflow
 
 <p align="center">
-<img src="assets/Classdiagram.png" alt="ClassDiagram" width="600">
+<img src="assets/mh.png" alt="mh" width="600">
 </p>
 
 The **data-related directories** include the database and resources used during website development, divided into:
@@ -149,7 +151,7 @@ The **data-related directories** include the database and resources used during 
 - `/assets`: Website resources
 
 <p align="center">
-<img src="assets/Classdiagram.png" alt="ClassDiagram" width="600">
+<img src="assets/mh2.png" alt="mh2" width="600">
 </p>
 
 The API and Utils directories contain API calls for website communication and supporting logic, divided into:
@@ -157,7 +159,7 @@ The API and Utils directories contain API calls for website communication and su
 - `/utils`: Supporting logic
 
 <p align="center">
-<img src="assets/Classdiagram.png" alt="ClassDiagram" width="600">
+<img src="assets/mh3.png" alt="mh3" width="600">
 </p>
 
 ## 📌**Software Features - Các tính năng của phần mềm**
@@ -384,33 +386,61 @@ Any other HTTP method sent to this endpoint will return Status Code 405 (Method 
 
 The homepage of the website displays a list of recommended books and best-selling books.
 
+<p align="center"><img src="assets/gd.png" alt="gd" width="600"></p>
+
 **2. View All Books**
 
 Users can view all available books on the website by clicking on the "To Books" section in the header.
+
+<p align="center"><img src="assets/gd2.png" alt="gd2" width="600"></p>
+
+<p align="center"><img src="assets/gd3.png" alt="gd3" width="600"></p>
 
 **3. Register and Login**
 
 To log in or register, users can click on the "To Login" section in the header.
 
+<p align="center"><img src="assets/gd4.png" alt="gd4" width="600"></p>
+
+<p align="center"><img src="assets/gd5.png" alt="gd5" width="600"></p>
+
 **4. Save Books to Favorites**
 
 Logged-in users can save books to their favorites list by clicking the heart icon on the corresponding book card or the "Favorite" button on the book details page.
 
+<p align="center"><img src="assets/gd6.png" alt="gd6" width="600"></p>
+
+<p align="center"><img src="assets/gd7.png" alt="gd7" width="600"></p>
+
 Users can later browse their saved favorite books by clicking the heart icon in the header.
+
+<p align="center"><img src="assets/gd8.png" alt="gd8" width="600"></p>
 
 **5. Edit Personal Information**
 
 Logged-in users can customize their account information by clicking on the user icon in the header.
 
+<p align="center"><img src="assets/gd9.png" alt="gd9" width="600"></p>
+
 **6. Add, Delete, and Edit Book Information**
 
 Admins can add, delete, or edit book information through the "To Books" section in the header.
+
+<p align="center"><img src="assets/gd10.png" alt="gd10" width="600"></p>
+
   - To delete or edit the information of a specific book, click the "Edit" button on the corresponding book.
+
+  <p align="center"><img src="assets/gd11.png" alt="gd11" width="600"></p>
+
   - To add a new book, click the "Create New Book" button and fill in the required information.
+
+  <p align="center"><img src="assets/gd12.png" alt="gd12" width="600"></p>
 
 **7. View and Delete User Accounts**
 
 Admins can view a list of registered user accounts and delete user accounts by clicking the user icon in the header.
+
+<p align="center"><img src="assets/gd13.png" alt="gd13" width="600"></p>
 
 ## 📌 **Installation Guide**
 

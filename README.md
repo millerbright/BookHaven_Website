@@ -2,7 +2,7 @@
 <p align ='center'> Developed by Group 18 - LTW - HK232</p> 
 
 ## Table of content
-- [Introduction](#📌-introduction)
+- [Introduction](#📌-Introduction)
 - [Technologies Used](#🛠️-Technologies-Used)
 - [Source code](#🚀-Source-code)
 - [Security & SEO](#📌-Security-&-SEO)
@@ -14,7 +14,7 @@
 - [Installation Guide](#📌-Installation-Guide)
 - [Contributors](#🏆-Contributors)
 
-## 📌 **Introduction**
+## **📌 Introduction**
 🎓 BookHaven is an e-commerce platform dedicated to books, providing a modern and convenient shopping experience for book lovers. With the rapid growth of the Internet and changing consumer behavior, BookHaven was created to meet the demand for easy, fast, and seamless book discovery and purchasing.
 
 🎓 Inspired by Fahasa, BookHaven offers a familiar and intuitive interface, allowing users to browse, search, and purchase books with ease. Customers can also create personal accounts to save their favorite books, track orders, and receive exclusive deals.

@@ -2,8 +2,8 @@
 <p align ='center'> Developed by Group 18 - LTW - HK232</p> 
 
 ## Table of content
-- [Introduction](#📌-Introduction)
-- [Technologies Used](#🛠️-Technologies-Used)
+- [Introduction](#📌-introduction)
+- [Technologies Used](#🛠️-technologies-used)
 - [Source code](#🚀-Source-code)
 - [Security & SEO](#📌-Security-&-SEO)
 - [Software Design - Thiết kế phần mềm](#📌-Software-Design---Thiết-kế-phần-mềm)
@@ -14,7 +14,7 @@
 - [Installation Guide](#📌-Installation-Guide)
 - [Contributors](#🏆-Contributors)
 
-## **📌 Introduction**
+## **📌Introduction**
 🎓 BookHaven is an e-commerce platform dedicated to books, providing a modern and convenient shopping experience for book lovers. With the rapid growth of the Internet and changing consumer behavior, BookHaven was created to meet the demand for easy, fast, and seamless book discovery and purchasing.
 
 🎓 Inspired by Fahasa, BookHaven offers a familiar and intuitive interface, allowing users to browse, search, and purchase books with ease. Customers can also create personal accounts to save their favorite books, track orders, and receive exclusive deals.
@@ -26,7 +26,7 @@
 <p align="center"><img src="assets/home.png" alt="home" width="700"><img src="assets/home2.png" alt="home2" width="700"><img src="assets/home3.png" alt="home3" width="700"></p>
 
 
-## 🛠️ **Technologies Used**
+## **🛠️Technologies Used**
 
 BookHaven is built using a modern and efficient technology stack, ensuring a seamless user experience, maintainability, and scalability. Below are the core technologies and tools powering the platform:
 

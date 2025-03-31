@@ -2,7 +2,7 @@
 <p align ='center'> Developed by Group 18 - LTW - HK232</p> 
 
 ## Table of content
-- [Introduction](#📌-Introduction)
+- [Introduction](#📌-introduction)
 - [Technologies Used](#🛠️-Technologies-Used)
 - [Source code](#🚀-Source-code)
 - [Security & SEO](#📌-Security-&-SEO)

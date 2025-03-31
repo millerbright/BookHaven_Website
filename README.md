@@ -3,16 +3,16 @@
 
 ## Table of content
 - [Introduction](#introduction)
-- [Technologies Used](#🛠️-technologies-used)
-- [Source code](#🚀-Source-code)
-- [Security & SEO](#📌-Security-&-SEO)
-- [Software Design - Thiết kế phần mềm](#📌-Software-Design---Thiết-kế-phần-mềm)
-- [Source Code Structure](#📌-Source-Code-Structure)
-- [Software Features - Các tính năng của phần mềm](#📌-Software-Features---Các-tính-năng-của-phần-mềm)
-- [Implementation](#📌-Implementation)
-- [Feature Overview](#📌-Feature-Overview)
-- [Installation Guide](#📌-Installation-Guide)
-- [Contributors](#🏆-Contributors)
+- [Technologies Used](#technologies-used)
+- [Source code](#source-code)
+- [Security & SEO](#security--seo)
+- [Software Design - Thiết kế phần mềm](#software-design---thiết-kế-phần-mềm)
+- [Source Code Structure](#source-code-structure)
+- [Software Features - Các tính năng của phần mềm](#software-features---các-tính-năng-của-phần-mềm)
+- [Implementation](#implementation)
+- [Feature Overview](#feature-overview)
+- [Installation Guide](#installation-guide)
+- [Contributors](#contributors)
 
 ## **📌Introduction**
 🎓 BookHaven is an e-commerce platform dedicated to books, providing a modern and convenient shopping experience for book lovers. With the rapid growth of the Internet and changing consumer behavior, BookHaven was created to meet the demand for easy, fast, and seamless book discovery and purchasing.
@@ -25,9 +25,7 @@
 
 <p align="center"><img src="assets/home.png" alt="home" width="700"><img src="assets/home2.png" alt="home2" width="700"><img src="assets/home3.png" alt="home3" width="700"></p>
 
-
-## **🛠️Technologies Used**
-
+## 🛠**Technologies Used**
 BookHaven is built using a modern and efficient technology stack, ensuring a seamless user experience, maintainability, and scalability. Below are the core technologies and tools powering the platform:
 
 - Frontend & UI:
@@ -61,7 +59,7 @@ BookHaven is built using a modern and efficient technology stack, ensuring a sea
 
 By leveraging these technologies, BookHaven offers a robust, user-friendly, and scalable platform that ensures a smooth book shopping experience while maintaining security, efficiency, and ease of development.
 
-## 🚀 **Source code:**
+## 🚀**Source code:**
 The source code of the software can be accessed via the following link:
 
 🔗 [BookHaven WebSite SourceCode](https://github.com/DanteBartel/HK232_Web_Nh-m_18_BTL)
@@ -457,7 +455,7 @@ Admins can view a list of registered user accounts and delete user accounts by c
 
 <p align="center"><img src="assets/gd13.png" alt="gd13" width="600"></p>
 
-## 📌 **Installation Guide**
+## 📌**Installation Guide**
 
 The website runs on an Apache environment through XAMPP version 8.2.12. This version of XAMPP supports PHP 8.2.12 and Apache 2.4.58.
 
@@ -470,7 +468,7 @@ To install and test the website, follow these steps:
   - Create a new empty database named bookstore and import the sample data by running the script dbScript/bookstore.sql.
   - Access the project's homepage via `localhost/index.php`.
 
-## 🏆 Contributors
+## 🏆Contributors
 This project was successfully developed thanks to the dedication and effort of the following contributors:
 1. Phạm Minh Nhân - 2120047
 2. Nguyễn Quang Sáng - 2212922

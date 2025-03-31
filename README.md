@@ -2,17 +2,17 @@
 <p align ='center'> Developed by Group 18 - LTW - HK232</p> 
 
 ## Table of content
-- [Introduction](#Introduction)
-- [Technologies Used](#Technologies-Used)
-- [Source code](#Source-code)
-- [Security & SEO](#Security-&-SEO)
-- [Software Design - Thiết kế phần mềm](#Software-Design-Thiết-kế-phần-mềm)
-- [Source Code Structure](#Source-Code-Structure)
-- [Software Features - Các tính năng của phần mềm](#Software-Features-Các-tính-năng-của-phần-mềm)
-- [Implementation](#Implementation)
-- [Feature Overview](#Feature-Overview)
-- [Installation Guide](#Installation-Guide)
-- [Contributors](#Contributors)
+- [Introduction](#📌-Introduction)
+- [Technologies Used](#🛠️-Technologies-Used)
+- [Source code](#🚀-Source-code)
+- [Security & SEO](#📌-Security-&-SEO)
+- [Software Design - Thiết kế phần mềm](#📌-Software-Design---Thiết-kế-phần-mềm)
+- [Source Code Structure](#📌-Source-Code-Structure)
+- [Software Features - Các tính năng của phần mềm](#📌-Software-Features---Các-tính-năng-của-phần-mềm)
+- [Implementation](#📌-Implementation)
+- [Feature Overview](#📌-Feature-Overview)
+- [Installation Guide](#📌-Installation-Guide)
+- [Contributors](#🏆-Contributors)
 
 ## 📌 **Introduction**
 🎓 BookHaven is an e-commerce platform dedicated to books, providing a modern and convenient shopping experience for book lovers. With the rapid growth of the Internet and changing consumer behavior, BookHaven was created to meet the demand for easy, fast, and seamless book discovery and purchasing.
